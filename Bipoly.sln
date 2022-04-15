@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bipoly", "Bipoly.csproj", "{4AA7FA0D-B09D-4AF4-B372-1595FF5B4899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AA7FA0D-B09D-4AF4-B372-1595FF5B4899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA7FA0D-B09D-4AF4-B372-1595FF5B4899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA7FA0D-B09D-4AF4-B372-1595FF5B4899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA7FA0D-B09D-4AF4-B372-1595FF5B4899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
